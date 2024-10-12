@@ -50,5 +50,3 @@ def test_remove_token_cache():
 
     # Check if the cache file is removed
     assert not os.path.exists(cache_file)
-
-# Add more tests for other functions as needed
