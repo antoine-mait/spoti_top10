@@ -64,6 +64,4 @@ This project generates a personalized PDF document displaying the user's top 10 
 
 Below are some generated PDFs from the app: 
 
-<img src="images/short.jpg" alt="Top for the Month" width="300"/> 
-<img src="images/mid.jpg" alt="Top for the Last 6 Months" width="300"/> 
-<img src="images/long.jpg" alt="Top for the Year" width="300"/>
+<img src="images/short.jpg" alt="Top for the Month" width="300"/><img src="images/mid.jpg" alt="Top for the Last 6 Months" width="300"/><img src="images/long.jpg" alt="Top for the Year" width="300"/>
