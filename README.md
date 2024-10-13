@@ -4,6 +4,8 @@ This project allows users to generate a PDF with their top 10 Spotify tracks, in
 
 ## Getting Started
 
+### [Youtube Presentation](https://youtu.be/nG9AN5XZ674)
+
 ### Prerequisites
 
 1. Python 3
