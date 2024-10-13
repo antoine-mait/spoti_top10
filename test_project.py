@@ -56,4 +56,8 @@ def test_remove_token_cache():
     remove_token_cache(user_token)
 
     # Check if the cache file is removed
+
     assert not os.path.exists(cache_file)
+
+    assert not os.path.exists(cache_file)
+
